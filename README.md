@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="GitBanner.png"/>
+</div>
+<br>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="100"/>
   <div id="badges">
@@ -14,11 +18,6 @@
     <h3>Hey there!</h3>
     </div>
   </div>
-</div>
-
----
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
 ---
