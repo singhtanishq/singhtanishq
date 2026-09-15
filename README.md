@@ -70,35 +70,35 @@ Instead of tying myself to specific frameworks forever, I focus on solving probl
 
   <b>Languages & Core Logic</b><br><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,c,python,java,js,php,ts,go,bash&theme=dark" alt="Languages" />
+    <img src="https://skillicons.dev/icons?i=cpp,c,python,js,php,ts,bash&theme=dark" alt="Languages" />
   </a>
 
   <br>
 
   <b>Frontend & Mobile Engineering</b><br><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,redux,html,css,wordpress,vue,vite,figma,sass&theme=dark" alt="Frontend" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,redux,html,css,vite,figma&theme=dark" alt="Frontend" />
   </a>
 
   <br>
 
   <b>Backend & APIs</b><br><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,graphql,nestjs,django,flask,nginx&theme=dark" alt="Backend" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,graphql,nestjs,nginx&theme=dark" alt="Backend" />
   </a>
 
   <br>
 
   <b>Data Architecture</b><br><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,kafka,redis,sqlite,cassandra,firebase&theme=dark" alt="Databases" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite&theme=dark" alt="Databases" />
   </a>
 
   <br>
 
   <b>DevOps, Cloud & Tools</b><br><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,github,postman,linux,githubactions,azure,vercel&theme=dark" alt="DevOps" />
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,github,postman,azure,vercel&theme=dark" alt="DevOps" />
   </a>
 </div>
 
