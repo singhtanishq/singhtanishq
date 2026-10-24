@@ -325,32 +325,17 @@ Small changes, reproducible environments, focused tests, clear logs, and useful 
     </tr>
     <tr>
       <td align="center" valign="top" width="50%">
-        <p><strong>LANGUAGE FOOTPRINT</strong></p>
-        <a href="https://github.com/singhtanishq?tab=repositories">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhtanishq&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Languages detected across GitHub repositories" width="100%" />
-        </a>
-      </td>
-      <td align="center" valign="top" width="50%">
-        <p><strong>CONTRIBUTION ACTIVITY</strong></p>
-        <a href="https://github.com/singhtanishq">
-          <img src="https://github-readme-activity-graph.vercel.app/graph?username=singhtanishq&bg_color=00000000&color=8FA3B8&line=00C9A7&point=FFFFFF&area=true&area_color=00C9A733&hide_border=true" alt="GitHub contribution activity graph" width="100%" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" valign="top" width="50%">
         <p><strong>PRODUCTIVE HOURS</strong></p>
         <a href="https://github.com/singhtanishq">
           <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=singhtanishq&theme=github_dark" alt="GitHub commit activity by time of day" width="100%" />
         </a>
       </td>
       <td align="center" valign="top" width="50%">
-        <p><strong>PROFILE TROPHIES</strong></p>
-        <a href="https://github.com/singhtanishq">
-          <img src="https://github-profile-trophy.vercel.app/?username=singhtanishq&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=2&column=3" alt="GitHub profile trophies" width="100%" />
+        <p><strong>LANGUAGE FOOTPRINT</strong></p>
+        <a href="https://github.com/singhtanishq?tab=repositories">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhtanishq&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Languages detected across GitHub repositories" width="100%" />
         </a>
       </td>
-    </tr>
   </tbody>
 </table>
 
