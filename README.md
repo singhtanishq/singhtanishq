@@ -161,31 +161,44 @@ Using experimentation, simulation, graph-based methods, and algorithmic reasonin
 
 ## `03 /` The engineering loop
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2200&pause=500&color=00C9A7&center=true&vCenter=true&repeat=true&width=680&height=42&lines=UNDERSTAND+%E2%86%92+DESIGN+%E2%86%92+BUILD;TEST+%E2%86%92+OBSERVE+%E2%86%92+IMPROVE;MAKE+THE+NEXT+ITERATION+BETTER" alt="Understand, design, build, test, observe, improve" width="100%" />
+<div align="left" style="text-align: left;">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2200&pause=500&color=00C9A7&center=false&vCenter=true&repeat=true&width=680&height=42&lines=UNDERSTAND+%E2%86%92+DESIGN+%E2%86%92+BUILD;TEST+%E2%86%92+OBSERVE+%E2%86%92+IMPROVE;MAKE+THE+NEXT+ITERATION+BETTER" alt="Understand, design, build, test, observe, improve" width="680" />
 </div>
 
-```text
-┌─────────────────────────────────────────────────────────────┐
-│  01  UNDERSTAND                                              │
-│      Clarify users, constraints, risks, and desired outcomes │
-├─────────────────────────────────────────────────────────────┤
-│  02  DESIGN                                                  │
-│      Make interfaces, data flows, and trade-offs explicit   │
-├─────────────────────────────────────────────────────────────┤
-│  03  BUILD                                                   │
-│      Deliver the smallest coherent, maintainable solution   │
-├─────────────────────────────────────────────────────────────┤
-│  04  VERIFY                                                  │
-│      Test behavior, edge cases, security, and accessibility  │
-├─────────────────────────────────────────────────────────────┤
-│  05  OBSERVE                                                 │
-│      Use feedback, logs, metrics, and actual usage           │
-├─────────────────────────────────────────────────────────────┤
-│  06  ITERATE                                                 │
-│      Improve the system without losing sight of the problem  │
-└─────────────────────────────────────────────────────────────┘
-```
+<table width="100%">
+  <thead>
+    <tr>
+      <th align="left" style="text-align: left;">STAGE</th>
+      <th align="left">WHAT HAPPENS</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="left" style="text-align: left;"><strong>01 · UNDERSTAND</strong></td>
+      <td>Clarify users, constraints, risks, and desired outcomes.</td>
+    </tr>
+    <tr>
+      <td align="left" style="text-align: left;"><strong>02 · DESIGN</strong></td>
+      <td>Make interfaces, data flows, and trade-offs explicit.</td>
+    </tr>
+    <tr>
+      <td align="left" style="text-align: left;"><strong>03 · BUILD</strong></td>
+      <td>Deliver the smallest coherent, maintainable solution.</td>
+    </tr>
+    <tr>
+      <td align="left" style="text-align: left;"><strong>04 · VERIFY</strong></td>
+      <td>Test behavior, edge cases, security, and accessibility.</td>
+    </tr>
+    <tr>
+      <td align="left" style="text-align: left;"><strong>05 · OBSERVE</strong></td>
+      <td>Use feedback, logs, metrics, and actual usage.</td>
+    </tr>
+    <tr>
+      <td align="left" style="text-align: left;"><strong>06 · ITERATE</strong></td>
+      <td>Improve the system without losing sight of the problem.</td>
+    </tr>
+  </tbody>
+</table>
 
 <sub>This is the loop I aim for—not a rigid process. The right amount of planning and validation depends on the risk and context.</sub>
 
@@ -200,25 +213,25 @@ Tools are instruments, not the identity. This visual index reflects the ecosyste
 ### Languages & core logic
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,php,cpp,c,bash&perline=7" alt="Python, TypeScript, JavaScript, PHP, C++, C, Bash" width="100%" />
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,php,cpp,c,bash&perline=7" alt="Python, TypeScript, JavaScript, PHP, C++, C, Bash" height="44" />
 </div>
 
 ### Interface & experience
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,vite,redux,figma&perline=8" alt="React, Next.js, HTML, CSS, Tailwind CSS, Vite, Redux, Figma" width="100%" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,vite,redux,figma&perline=8" alt="React, Next.js, HTML, CSS, Tailwind CSS, Vite, Redux, Figma" height="44" />
 </div>
 
 ### Backend & data
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,graphql,mysql,postgres,mongodb,redis,sqlite&perline=9" alt="Node.js, Express, Laravel, GraphQL, MySQL, PostgreSQL, MongoDB, Redis, SQLite" width="100%" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,graphql,mysql,postgres,mongodb,redis,sqlite&perline=9" alt="Node.js, Express, Laravel, GraphQL, MySQL, PostgreSQL, MongoDB, Redis, SQLite" height="44" />
 </div>
 
 ### Infrastructure & delivery
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,linux,git,github,postman,vercel&perline=9" alt="Docker, Kubernetes, AWS, Azure, Linux, Git, GitHub, Postman, Vercel" width="100%" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,linux,git,github,postman,vercel&perline=9" alt="Docker, Kubernetes, AWS, Azure, Linux, Git, GitHub, Postman, Vercel" height="44" />
 </div>
 
 <details>
@@ -290,43 +303,83 @@ Small changes, reproducible environments, focused tests, clear logs, and useful 
 
 ## `06 /` Live GitHub telemetry
 
-<sub>These visuals are generated from GitHub data by external services. They update independently of this file, so you never need to edit a commit count, streak, or language percentage manually.</sub>
+<sub>These visuals are generated from GitHub and LeetCode data by external services. They refresh independently of this file, so counts and activity do not need to be maintained manually.</sub>
 
-### Contribution streak
+### GitHub dashboard
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=singhtanishq&theme=transparent&hide_border=true&ring=00C9A7&fire=00C9A7&currStreakLabel=00C9A7" alt="Live GitHub contribution streak" width="100%" />
-</div>
+<table width="100%">
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="50%">
+        <p><strong>PROFILE STATISTICS</strong></p>
+        <a href="https://github.com/singhtanishq">
+          <img src="https://github-readme-stats.vercel.app/api?username=singhtanishq&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" alt="GitHub profile statistics" width="100%" />
+        </a>
+      </td>
+      <td align="center" valign="top" width="50%">
+        <p><strong>CONTRIBUTION STREAK</strong></p>
+        <a href="https://github.com/singhtanishq">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=singhtanishq&theme=transparent&hide_border=true&ring=00C9A7&fire=00C9A7&currStreakLabel=00C9A7" alt="GitHub contribution streak" width="100%" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="50%">
+        <p><strong>LANGUAGE FOOTPRINT</strong></p>
+        <a href="https://github.com/singhtanishq?tab=repositories">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhtanishq&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Languages detected across GitHub repositories" width="100%" />
+        </a>
+      </td>
+      <td align="center" valign="top" width="50%">
+        <p><strong>CONTRIBUTION ACTIVITY</strong></p>
+        <a href="https://github.com/singhtanishq">
+          <img src="https://github-readme-activity-graph.vercel.app/graph?username=singhtanishq&bg_color=00000000&color=8FA3B8&line=00C9A7&point=FFFFFF&area=true&area_color=00C9A733&hide_border=true" alt="GitHub contribution activity graph" width="100%" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="50%">
+        <p><strong>PRODUCTIVE HOURS</strong></p>
+        <a href="https://github.com/singhtanishq">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=singhtanishq&theme=github_dark" alt="GitHub commit activity by time of day" width="100%" />
+        </a>
+      </td>
+      <td align="center" valign="top" width="50%">
+        <p><strong>PROFILE TROPHIES</strong></p>
+        <a href="https://github.com/singhtanishq">
+          <img src="https://github-profile-trophy.vercel.app/?username=singhtanishq&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=2&column=3" alt="GitHub profile trophies" width="100%" />
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-### Profile statistics
+### LeetCode dashboard
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=singhtanishq&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" alt="GitHub profile statistics" width="100%" />
-</div>
+<p align="center">
+  <a href="https://leetcode.com/tanishqsingh"><img src="https://img.shields.io/badge/LEETCODE-View%20full%20profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="Open LeetCode profile" /></a>
+</p>
 
-### Language footprint
+<table width="100%">
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="50%">
+        <p><strong>SUBMISSION HEATMAP</strong></p>
+        <a href="https://leetcode.com/tanishqsingh">
+          <img src="https://leetcard.jacoblin.cool/tanishqsingh?theme=transparent&font=JetBrains_Mono&ext=heatmap" alt="LeetCode submission heatmap" width="100%" />
+        </a>
+      </td>
+      <td align="center" valign="top" width="50%">
+        <p><strong>CONTEST RATING HISTORY</strong></p>
+        <a href="https://leetcode.com/tanishqsingh">
+          <img src="https://leetcard.jacoblin.cool/tanishqsingh?theme=transparent&font=JetBrains_Mono&ext=contest" alt="LeetCode contest rating history chart" width="100%" />
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhtanishq&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Languages detected across GitHub repositories" width="100%" />
-</div>
-
-<details>
-<summary><strong>📈 Contribution activity graph</strong></summary>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=singhtanishq&bg_color=00000000&color=8FA3B8&line=00C9A7&point=FFFFFF&area=true&area_color=00C9A733&hide_border=true" alt="GitHub contribution activity graph" width="100%" />
-</div>
-
-</details>
-
-<details>
-<summary><strong>🏆 GitHub trophies</strong></summary>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=singhtanishq&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=2&column=3" alt="GitHub profile trophies" width="100%" />
-</div>
-
-</details>
+<sub>LeetCode visualizations rely on community-maintained endpoints and may occasionally be delayed or unavailable. For official account details, open the linked LeetCode profile.</sub>
 
 ---
 
